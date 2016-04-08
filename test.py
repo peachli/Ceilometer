@@ -1,2 +1,2 @@
  i want to study git 
- i like
+ i dont like
